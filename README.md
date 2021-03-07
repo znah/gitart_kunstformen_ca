@@ -1,7 +1,7 @@
 
 # "Neural CA Kunstformen" GitHub Collectable 💎
 
-https://user-images.githubusercontent.com/2600120/110246941-03168300-7f6a-11eb-8d8f-82ca6316443d.mp4
+![](aspidonia_ca.jpg)
 
 **Author:** Alexander Mordvintsev ([github](https://github.com/znah), [twitter](https://twitter.com/zzznah), [web](https://znah.net/))
 

@@ -3,6 +3,8 @@
 
 ![](aspidonia_ca.jpg)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/znah/gitart_kunstformen_ca/blob/main/kunstformen_nca.ipynb)
+
 **Author:** Alexander Mordvintsev ([github](https://github.com/znah), [twitter](https://twitter.com/zzznah), [web](https://znah.net/))
 
 **Medium:** Git repository

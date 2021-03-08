@@ -47,7 +47,7 @@ The code simulates and trains a Self-Organizing System of cells that builds and 
 In addition, the repository contains artifacts produced by running the code, such as trained CA models, images and videos.
 
 ## Artist statement
-Ability to build and maintain its own body is the first skill every living creature possesses.
+The ability to build and maintain its own body is the first skill every living creature possesses.
 Self-Organization is omnipresent in nature, from molecular to global scale.
 This artwork invites adventurers explorers to play with self-organization,
 and think about the relationship between parts and the whole,
